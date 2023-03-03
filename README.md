@@ -9,3 +9,6 @@
 [Seven tips for working with X.509 certificates in .NET](https://paulstovell.com/x509certificate2/)
 
 [configure ssl certificate in code](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code#load-certificate-in-windows-apps)
+
+#### Partner Repo For Validation
+You can also review my [Validate incoming requests certificate](https://github.com/VinnyBonner/Validate-Incoming-Requests-Certificate) repository to test/validate the certificate was successfully sent with the request.
